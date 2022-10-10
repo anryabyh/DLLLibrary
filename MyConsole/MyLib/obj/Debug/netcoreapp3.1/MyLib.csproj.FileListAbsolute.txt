@@ -1,0 +1,16 @@
+C:\Users\TEMP\source\repos\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\TEMP\source\repos\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\TEMP\source\repos\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\TEMP\source\repos\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\TEMP\source\repos\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\TEMP\source\repos\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\TEMP\source\repos\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\ryabykh.ay0810\Desktop\MyConsole\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
